@@ -4,7 +4,7 @@
 
 Welcome to the Weather App repository! This application provides real-time weather information using React.js and Material-UI. It features a user-centric design that presents weather data clearly and aesthetically. The app fetches current weather conditions, including temperature, humidity, and rain chances, ensuring you always have up-to-date information.
 
-****Features**
+**Features**
 
 ✅**User-Centric Design:** A clean and intuitive interface enhanced with Material-UI for a modern user experience.
 
